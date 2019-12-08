@@ -1,10 +1,10 @@
-# require modules here
-
-def load_library
 require "yaml"
 require 'pp'
 
-pp emoticons  # code goes here
+pp emoticons# require modules here
+
+def load_library
+  # code goes here
 end
 
 def get_japanese_emoticon
