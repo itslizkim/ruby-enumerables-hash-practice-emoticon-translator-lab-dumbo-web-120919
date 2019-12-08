@@ -1,7 +1,10 @@
 # require modules here
 
 def load_library
-  # code goes here
+require 'emoticons'
+require 'pp'
+
+pp emoticons  # code goes here
 end
 
 def get_japanese_emoticon
